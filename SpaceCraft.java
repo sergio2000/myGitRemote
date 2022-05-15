@@ -8,7 +8,7 @@ public class SpaceCraft {
     int time;
     int speed;
     int duration;
-    int branchTwo;
+    int development2;
     int burnRate;
     
     public void init(){
