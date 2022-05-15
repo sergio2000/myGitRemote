@@ -6,6 +6,8 @@ public class SpaceCraft {
     int fuel;
     int velocity;
     int time;
+    int speed;
+    int duration;
 
     int burnRate;
     
